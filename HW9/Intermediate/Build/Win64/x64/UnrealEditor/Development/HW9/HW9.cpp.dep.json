@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\nbc\\seonghyeon_hw9\\hw9\\source\\hw9\\hw9.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\nbc\\seonghyeon_hw9\\hw9\\intermediate\\build\\win64\\x64\\hw9editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\nbc\\seonghyeon_hw9\\hw9\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw9\\definitions.hw9.h",
+            "c:\\nbc\\seonghyeon_hw9\\hw9\\source\\hw9\\hw9.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

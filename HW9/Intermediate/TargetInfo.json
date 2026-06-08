@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HW9",
+			"Path": "..\\Source\\HW9.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HW9Editor",
+			"Path": "..\\Source\\HW9Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
